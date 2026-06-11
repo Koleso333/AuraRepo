@@ -1,7 +1,8 @@
 {
     "name": "Luna-Spark-1",
-    "desc": "-",
+    "desc": "Первая модель из семейства Spark",
     "parameters": 312292,
+    "date": "2026-06-03",
     "icon": "icon.png",
     "file": "luna-spark-1.aui",
     "author": "Koleso"

@@ -1,7 +1,8 @@
 {
     "name": "Luna-Spark-1-S",
-    "desc": "-",
+    "desc": "Уменьшеная версия Luna-Spark-1. Стала гараздо лучше в легитности и стабильности, а также стала гараздо меньше галлюцинировать.",
     "parameters": 200452,
+    "date": "03.06.2026",
     "icon": "icon.png",
     "file": "luna-spark-1-s.aui",
     "author": "Koleso"

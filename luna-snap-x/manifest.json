@@ -1,7 +1,8 @@
 {
     "name": "Luna-Snap-X",
-    "desc": "-",
+    "desc": "Десятая версия в линейке Snap. Она стала гараздо легитей и стабильней.",
     "parameters": 312292,
+    "date": "02.06.2026",
     "icon": "icon.png",
     "file": "luna-snap-x.aui",
     "author": "Koleso"

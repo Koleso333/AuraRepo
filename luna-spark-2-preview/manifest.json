@@ -1,7 +1,8 @@
 {
     "name": "Luna-Spark-2-Preview",
-    "desc": "-",
+    "desc": "Предварительная версия из семейства Luna-Spark-2.",
     "parameters": 200452,
+    "date": "11.06.2026",
     "icon": "icon.png",
     "file": "luna-spark-2-preview.aui",
     "author": "Koleso"

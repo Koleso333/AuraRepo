@@ -1,7 +1,8 @@
 {
     "name": "Luna-Snap-9-U",
-    "desc": "-",
+    "desc": "Уменьшеная версия Luna-Snap-9 что стала быстрее и эффективнее.",
     "parameters": 200452,
+    "date": "01.06.2026",
     "icon": "icon.png",
     "file": "luna-snap-9-u.aui",
     "author": "Koleso"

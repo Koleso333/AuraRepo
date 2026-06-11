@@ -1,7 +1,8 @@
 {
     "name": "Luna-Snap-X-S",
-    "desc": "-",
+    "desc": "Более быстрая и эффективная версия Luna-Snap-X.",
     "parameters": 200452,
+    "date": "03.06.2026",
     "icon": "icon.png",
     "file": "luna-snap-x-s.aui",
     "author": "Koleso"

@@ -1,10 +1,11 @@
 {
+	"luna-spark-2": "luna-spark-2/manifest.json",
+	"luna-spark-2-preview": "luna-spark-2-preview/manifest.json",
+	"luna-spark-1-s": "luna-spark-1-s/manifest.json",
     "luna-spark-1": "luna-spark-1/manifest.json",
-    "luna-spark-1-s": "luna-spark-1-s/manifest.json",
-    "luna-spark-2-preview": "luna-spark-2-preview/manifest.json",
+	"luna-snap-x-s": "luna-snap-x-s/manifest.json",
     "luna-snap-x": "luna-snap-x/manifest.json",
-    "luna-snap-x-s": "luna-snap-x-s/manifest.json",
-    "luna-snap-9": "luna-snap-9/manifest.json",
     "luna-snap-9-p": "luna-snap-9-p/manifest.json",
-    "luna-snap-9-u": "luna-snap-9-u/manifest.json"
+    "luna-snap-9-u": "luna-snap-9-u/manifest.json",
+    "luna-snap-9": "luna-snap-9/manifest.json"
 }

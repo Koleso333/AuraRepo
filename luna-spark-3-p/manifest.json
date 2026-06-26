@@ -1,0 +1,10 @@
+{
+    "name": "Luna-Spark-3-p",
+    "desc": "Более точечно обученая модель для PVP в замкнутом пространстве. Также, стала более стабильной к резким поворотам.",
+    "parameters": 200452,
+    "apx": "Spartex",
+    "date": "25.06.2026",
+    "icon": "icon.png",
+    "file": "luna-spark-3-p.aui",
+    "author": "Koleso"
+}

@@ -1,4 +1,6 @@
-{
+{	
+	"luna-spark-3-p": "luna-spark-3-p/manifest.json",
+	"luna-spark-3": "luna-spark-3/manifest.json",
 	"luna-spark-2": "luna-spark-2/manifest.json",
 	"luna-spark-2-preview": "luna-spark-2-preview/manifest.json",
 	"luna-spark-1-s": "luna-spark-1-s/manifest.json",

@@ -1,0 +1,10 @@
+{
+    "name": "Luna-Spark-4-Pro",
+    "desc": "Сделанна на новой архитектуре Willgrit. Первая модель, на который была применена технология RL. Стала гараздо эффективнее чем все предыдущие модели.",
+    "parameters": 477910,
+    "apx": "Willgrit",
+    "date": "01.09.2026",
+    "icon": "icon.png",
+    "file": "luna-spark-4-pro.aui",
+    "author": "Koleso"
+}

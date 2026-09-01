@@ -1,0 +1,14 @@
+#!/bin/bash
+# Chromium в контейнере: без песочницы (root), через агент-прокси.
+# --disable-quic: egress-прокси не поддерживает HTTP/3.
+# Отключены post-quantum keyshare и ECH: их большой ClientHello рвёт TLS-релей
+# egress-прокси (ws_closed_mid_exchange).
+PROXY=${HTTPS_PROXY:-http://127.0.0.1:44631}
+exec /opt/pw-browsers/chromium-1194/chrome-linux/chrome \
+  --no-sandbox --disable-dev-shm-usage --no-first-run --password-store=basic \
+  --proxy-server="$PROXY" \
+  --proxy-bypass-list="localhost,127.0.0.1" \
+  --disable-quic \
+  --disable-features=PostQuantumKyber,EncryptedClientHello \
+  --ssl-version-max=tls1.2 \
+  --user-data-dir=/root/.config/chromium-desktop "$@"

@@ -1,4 +1,5 @@
 {	
+	"excel-v1": "excel-v1/manifest.json",
 	"excel-v1-preview": "excel-v1-preview/manifest.json",
 	"luna-spark-5": "luna-spark-5/manifest.json",
 	"luna-spark-4-pro": "luna-spark-4-pro/manifest.json",

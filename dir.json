@@ -1,4 +1,6 @@
 {	
+	"luna-spark-5-pro": "luna-spark-5-pro/manifest.json",
+	"musya-v1": "musya-v1/manifest.json",
 	"excel-v1": "excel-v1/manifest.json",
 	"excel-v1-preview": "excel-v1-preview/manifest.json",
 	"luna-spark-5": "luna-spark-5/manifest.json",

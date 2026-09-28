@@ -1,7 +1,7 @@
 {
     "name": "Luna-Spark-4-Lite",
     "desc": "Новая модель сделанная на архитектуре Oleray v3. Является менее легитной, но более эффективной.",
-    "parameters": 50400,
+    "parameters": 50428,
     "apx": "Oleray",
     "date": "09.08.2026",
     "icon": "icon.png",

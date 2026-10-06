@@ -2,7 +2,7 @@
     "name": "Luna-Spark-3",
     "desc": "Главная модель из семейства Luna-Spark-3. Построена на новой архитектуре Spartex. Показывает более стабильное и быстрое поведение.",
     "parameters": 150916,
-    "apx": "Spartex",
+    "apx": "Spartex (v2)",
     "date": "23.06.2026",
     "icon": "icon.png",
     "file": "luna-spark-3.aui",

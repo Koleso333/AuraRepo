@@ -1,0 +1,10 @@
+{
+    "name": "Luna-Spark-6",
+    "desc": "Стала менее быстрой, при этом гараздо легитнее. Полностью переобучена с нуля, а также полностью переработан RL.",
+    "parameters": 412374,
+    "apx": "Willgrit+ (v5.2)",
+    "date": "11.10.2026",
+    "icon": "icon.png",
+    "file": "luna-spark-6.aui",
+    "author": "Koleso"
+}
